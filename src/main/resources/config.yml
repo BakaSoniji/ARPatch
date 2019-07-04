@@ -1,0 +1,7 @@
+drop_chest:
+  -396971660:
+    name: "{\\\"text\\\":\\\"§5§l稀有掉落箱\\\"}"
+    lootTable: drop_rare
+  -1600924885:
+    name: "{\\\"text\\\":\\\"§e§l普通掉落箱\\\"}"
+    lootTable: drop

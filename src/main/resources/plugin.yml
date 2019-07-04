@@ -1,0 +1,5 @@
+name: ARPatch
+version: 1.0.0
+author: BakaSoniji
+main: com.primcraft.arpatch.core.ARPatchCore
+description: A plugin to patch some missing behavior in Airless Dungeon when running on Spigot/Bukkit.
